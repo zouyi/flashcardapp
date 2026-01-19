@@ -1,0 +1,26 @@
+{
+  "Biology": [
+    {
+      "front": "glycolysis",
+      "back": "the fundamental metabolic pathway breaking down one glucose molecule (a sugar) into two pyruvate molecules in the cell's cytoplasm 该词指生物体内通过一系列酶促反应将碳水化合物分解为丙酮酸或乳酸，并以ATP形式释放能量的代谢过程。"
+    },
+    {
+      "front": "Respiration",
+        "back": " the vital process of gas exchange, involving taking in oxygen and releasing carbon dioxide, such as breathing."
+    },
+    {
+      "front": "Grana",
+      "back": "stacks of thylakoids in chloroplasts for photosynthesis"
+    }
+  ],
+  "Coding Basics": [
+    {
+      "front": "HTML",
+      "back": "HyperText Markup Language"
+    },
+    {
+      "front": "CSS",
+      "back": "Cascading Style Sheets"
+    }
+  ]
+}

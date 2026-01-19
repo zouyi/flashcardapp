@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Flash Cards – Baseline v1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <h2>Flash Card App (Baseline v1)</h2>
+
+  <div class="tabs">
+    <button onclick="openTab('review')">Review Deck</button>
+    <button onclick="openTab('decks')">Create / Delete Deck</button>
+    <button onclick="openTab('cards')">Create Card</button>
+  </div>
+
+  <div id="tab-review" class="tab">
+    <h3>Review Deck</h3>
+    <select id="reviewSelect"></select>
+    <button onclick="startReview()">Start Review</button>
+
+    <div id="reviewArea" class="hidden">
+      <div id="card" class="card">
+        <div id="cardText"></div>
+      </div>
+      <div class="controls">
+        <button onclick="prevCard()">⬅ Prev</button>
+        <button onclick="flipCard()">🔄 Flip</button>
+        <button onclick="nextCard()">Next ➡</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-decks" class="tab hidden">
+
+    <div class="manage-data">
+      <h3>Manage Data</h3>
+      <button onclick="exportData()">💾 Export Decks</button>
+      <button onclick="document.getElementById('importFile').click()">📂 Import Decks</button>
+      <input type="file" id="importFile" accept=".json" hidden onchange="importData(event)">
+    </div>
+
+    <div class="deck-section">
+      <h3>Decks</h3>
+      <div id="deckGrid" class="deck-grid"></div>
+    </div>
+
+    <div class="add-deck-row">
+      <input id="deckName" placeholder="New deck name" />
+      <button onclick="createDeck()">Add</button>
+    </div>
+  </div>
+
+  <div id="tab-cards" class="tab hidden">
+    <h3>Create Card</h3>
+    <select id="deckSelect"></select>
+    <input id="frontText" placeholder="Front text" />
+    <textarea id="backText" placeholder="Back text"></textarea>
+    <button onclick="addCard()">Add Card</button>
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

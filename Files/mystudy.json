@@ -1,0 +1,105 @@
+{
+  "Biology": [
+    {
+      "front": "glycolysis",
+      "back": "the fundamental metabolic pathway breaking down one glucose molecule (a sugar) into two pyruvate molecules in the cell's cytoplasm 该词指生物体内通过一系列酶促反应将碳水化合物分解为丙酮酸或乳酸，并以ATP形式释放能量的代谢过程。"
+    },
+    {
+      "front": "Respiration",
+        "back": " the vital process of gas exchange, involving taking in oxygen and releasing carbon dioxide, such as breathing."
+    },
+    {
+      "front": "capillaries",
+        "back": "Microscopic blood vessels, 毛细血管"
+    },
+    {
+      "front": "Teste",
+        "back": "测试;【法】终结部分;"
+    },
+    {
+      "front": "Cadaver",
+        "back": "Corpse"
+    },
+      {
+      "front": "Conundrum",
+        "back": "a confusing and difficult problem or question."
+    },
+      {
+      "front": "hemoglobin",
+        "back": "the iron-rich protein in red blood cells that carries oxygen from your lungs to the body's tissues and helps return carbon dioxide to the lungs, giving blood its red color and powering cell functions 血红蛋白"
+    },
+    {
+      "front": "phloem",
+        "back": "the living vascular tissue in plants that transports sugars (like sucrose) and other organic nutrients (photosynthates) from where they're made (leaves) to where they're used or stored (roots, fruits, flowers) via a process called translocation. 韧皮部(由筛管等将叶制造的糖分输送到各部位的植物组织)"
+    },
+    {
+      "front": "Grana",
+      "back": "stacks of thylakoids in chloroplasts for photosynthesis"
+    }
+  ],
+   "Biology 2": [
+    {
+      "front": "artery",
+      "back": "any of the muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed from the heart to all parts of the body"
+    },
+    {
+      "front": "imbibe",
+      "back": "drink (alcohol) 2 absorb or assimilate (ideas or knowledge)"
+    },
+    {
+      "front": "transpiration",
+      "back": "A process where plants absorb water through their roots and release vapor from their leaves 木质部植物中将水分和矿物质从根部向上输送的组织"
+    },
+    {
+      "front": "xylem",
+      "back": "a vital vascular tissue in plants that transports water and dissolved minerals from the roots up to the rest of the plant (stems, leaves) and provides structural support"
+    },
+     {
+      "front": "osmosis",
+      "back": "液体通过半透膜从低浓度区域向高浓度区域扩散的现象"
+    },
+       {
+      "front": "cohesive",
+      "back": "有结合力的;使结合的;使凝结的;使内聚的;结成一个整体的;"
+    },
+          {
+      "front": "turgid",
+      "back": "swollen and distended or congested. 核心含义包括“肿胀的”“浮夸的”及“浮肿的"
+    },
+             {
+      "front": "graft",
+      "back": " joining living tissue (skin, bone, plant parts) from one source to another to grow together,盖植物嫁接、医学移植、贪污及辛勤"
+    },
+                {
+      "front": "abdomen",
+      "back": "腹部骨盆和胸部之间的身体部分"
+    },               {
+      "front": "",
+      "back": ""
+    },
+    {
+      "front": "Artery vs Vein",
+      "back": "Artery is Firmer located deeper in body, Vein (静脉) are flimsier and closer to the surface"
+    }
+  ],
+   "Biology 3": [
+    {
+      "front": "glycogen ",
+      "back": "the body's main way to store glucose (sugar) for quick energy, acting like a backup fuel primarily in the liver and muscles, released as needed for cells or to maintain blood sugar levels, regulated by hormones like insulin and glucagon. 糖原"
+    },
+    {
+      "front": "CSS",
+      "back": "Cascading Style Sheets"
+    }
+  ],
+  "Coding Basics": [
+    {
+      "front": "HTML",
+      "back": "HyperText Markup Language"
+    },
+    {
+      "front": "CSS",
+      "back": "Cascading Style Sheets"
+    }
+  ]
+}

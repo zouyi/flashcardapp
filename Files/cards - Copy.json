@@ -1,0 +1,26 @@
+{
+  "Dog Owner": [
+    {
+      "front": "Regime",
+      "back": "1 a government, especially an authoritarian one.政体 2 a system or planned way of doing things, especially one imposed from above."
+    },
+    {
+      "front": "spay",
+      "back": "performing a surgical procedure (ovariohysterectomy) to remove her ovaries and uterus"
+    },
+     {
+      "front": "neuter",
+      "back": "surgically sterilizing a male animal (castration, removing testicles) to prevent reproduction and reduce behaviors like marking"
+    }
+  ],
+  "Coding Basics": [
+    {
+      "front": "HTML",
+      "back": "HyperText Markup Language"
+    },
+    {
+      "front": "CSS",
+      "back": "Cascading Style Sheets"
+    }
+  ]
+}
